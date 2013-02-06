@@ -1,0 +1,4 @@
+dist/
+.idea/
+log/error.log
+log/access.log
